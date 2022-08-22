@@ -9,15 +9,15 @@
     height: 100vh;
     background-image: url(/images/Background.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .nav-bar {
-    max-width: 1600px;
+    max-width: 8000px;
     height: 72px;
     display: flex;
     align-items: center;
-    padding: 0 20px;
+    padding: 0 166px;
     padding-top: 16px;
     justify-content: space-between;
 }
