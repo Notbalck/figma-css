@@ -49,3 +49,50 @@
     align-items: center;
     gap: 12.87px;
 }
+
+.part-two-allign {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px auto auto auto;
+    padding: 0 20px;
+
+}
+
+.hero-title {
+    font-family: 'inter', sans-serif;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+    color: #18191f;
+    margin-top: 70px;
+
+
+}
+
+.hero-button { 
+    padding: 12px 32px;
+    width: 154px;
+    height: 48px;
+    background: #8C30F5;
+    border-radius: 6px;
+    color: #fff;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+
+.text-in-it {
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.img-in-it {
+    
+}
+
